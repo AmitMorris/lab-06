@@ -137,14 +137,14 @@
 
  === TIME MEASUREMENT ===
 
-                           Initializing plugins:  113
-                                 Validity check:    0
-                  Creating documentation models: 4358
-Transforming documentation model before merging:   17
+                           Initializing plugins:  122
+                                 Validity check:    1
+                  Creating documentation models: 4523
+Transforming documentation model before merging:   15
                    Merging documentation models:    1
- Transforming documentation model after merging:   10
-                                 Creating pages:  117
-                             Transforming pages:   55
-                                      Rendering: 1703
+ Transforming documentation model after merging:    9
+                                 Creating pages:  107
+                             Transforming pages:   58
+                                      Rendering: 1820
 
-[INFO] DokkaGeneratorWorker completed in PT8.1263019S
+[INFO] DokkaGeneratorWorker completed in PT8.4481561S
